@@ -49,3 +49,4 @@ pool.connect()
 });
 
 export { pool };
+export default app;
